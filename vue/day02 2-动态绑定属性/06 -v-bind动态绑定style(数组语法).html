@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <h2 :style="[baseStyle]">{{message}}</h2>
+  <h2 v-bind:style="getStyle()">{{message}}</h2>
+</div>
+
+<script src="../js/vue.js"></script>
+<script>
+	const app = new Vue({
+		el: '#app',
+		data: {
+			message: '你好啊',
+			baseStyle: {backgroundColor: 'red'}
+		},
+    methods:{
+			getStyle:function(){
+				return this.baseStyle
+      }
+    }
+	})
+</script>
+</body>
+</html>

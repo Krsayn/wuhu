@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <!--直接拼接 语法过于繁琐-->
+  <h2>{{firstName}} {{lastName}}</h2>
+
+  <!--通过定义methods 即使firstName和lastName没有改变 也需要再次执行-->
+  <h2>{{getFullName()}}</h2>
+
+  <!--通过computed 计算属性有缓存 只有关联属性改变 才会再次计算-->
+  <h2>{{fullName}}</h2>
+</div>
+
+<script src="../js/vue.js"></script>
+<script>
+	const app = new Vue({
+		el: '#app',
+		data: {
+			message: '你好啊',
+			firstName: 'kobe',
+			lastName: 'bryant'
+		},
+		methods: {
+			getFullName() {
+				return this.firstName + ' ' + this.lastName
+			}
+		},
+		computed: {
+			fullName() {
+				return this.firstName + ' ' + this.lastName
+			}
+		}
+	})
+</script>
+</body>
+</html>
