@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+<button>按钮1</button>
+<button>按钮2</button>
+<button>按钮3</button>
+<button>按钮4</button>
+<button>按钮5</button>
+<script>
+	// ES5之前 因为if和for都没有块级作用域的概念 所以在很多时候 我们都必须
+	// 借助于function的作用域来解决应用外面变量的问题
+	// ES6中 加入了let let它是有块级作用域的
+	// 1 变量作用域 变量在什么范围内是可用的
+
+
+	// for块级
+	// 为什么闭包可以解决问题 函数是一个闭包
+	//var btns = document.getElementsByTagName("button");
+	/*for (var i = 0; i < btns.length; i++) {
+		btns[i].addEventListener('click',function (param) {
+			console.log("第"+i+"个按钮被点击了");
+		});
+	}*/
+
+	/*for (var i = 0; i < btns.length; i++) {
+		(function (i) {
+			btns[i].addEventListener('click', function () {
+				console.log("第" + i + "个按钮被点击了");
+			})
+		})(i)
+		(function (i) {})(i)
+	}*/
+
+	// num参数代表指代i
+	/*for (var i = 0; i < btns.length; i++) {
+		(function (num) {
+			btns[num].addEventListener('click', function () {
+				console.log("第" + num + "个按钮被点击了");
+			})
+		})(i)
+	}*/
+
+	const btns = document.getElementsByTagName('button')
+	for (let i = 0; i < btns.length; i++) {
+		btns[i].addEventListener('click', function () {
+			console.log("第" + i + "个按钮被点击了");
+		})
+	}
+</script>
+</body>
+</html>
