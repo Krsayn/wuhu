@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+	// const obj=new Object();
+
+	// const obj = {
+	// 	name: 'why',
+	// 	age: 18,
+	// 	run: function () {
+	// 		console.log('在奔跑')
+	// 	},
+	// 	eat: function () {
+	// 		console.log('在吃东西')
+	// 	}
+	// }
+
+	// 1 属性的增强写法
+	const name = 'why';
+	const age = 18;
+	const height = 180;
+
+	//  ES5的写法
+	// const obj = {
+	// 	name: name,
+	// 	age: 18,
+	// 	height: height
+	// }
+
+  // 属性的增强写法
+	const obj = {
+		name,
+		age,
+		height
+	}
+
+	// 函数的增强写法
+  // ES5的写法
+  // const object={
+	// 	run:function(){
+	//
+  //   },
+  //   eat:function(){
+	//
+  //   }
+  // }
+
+  // ES6的写法
+  const object ={
+		run(){
+
+    },
+    eat(){
+
+    }
+  }
+	console.log(obj)
+</script>
+</body>
+</html>
