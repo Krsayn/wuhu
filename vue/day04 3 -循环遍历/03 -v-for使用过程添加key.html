@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <ul>
+    <!--app.letters.splice(2,2) 从下标2开始删除两个元素 页面展示 a b e -->
+    <!--app.letters.splice(2,0,'f') 从下标2的位置增加一个元素 页面展示 a b f c d e-->
+    <!--保证key值唯一-->
+    <li v-for="item in letters" :key="item">{{item}}</li>
+  </ul>
+</div>
+
+<script src="../js/vue.js"></script>
+<script>
+	const app = new Vue({
+		el: '#app',
+		data: {
+			letters: ['a', 'b', 'c', 'd', 'e']
+		}
+	})
+</script>
+</body>
+</html>
