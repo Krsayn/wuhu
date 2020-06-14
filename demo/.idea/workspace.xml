@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684bc0ec-1fba-405f-8140-02732f30e29b" name="Default Changelist" comment="6.13 commit">
-      <change afterPath="$PROJECT_DIR$/../vue/day04 3 -循环遍历/01 -v-for遍历数组.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day04 3 -循环遍历/02 -v-for遍历对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day04 3 -循环遍历/03 -v-for使用过程添加key.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day04 3 -循环遍历/04 -哪些数组的方法是响应式的.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 1-书籍购物车案例/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 1-书籍购物车案例/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 1-书籍购物车案例/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 2-v-model的使用/01 -v-model的基本使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 2-v-model的使用/02 -v-model的原理.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day05 2-v-model的使用/03 -v-model结合radio类型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -52,6 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue/day04 2-条件判断" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -69,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592014930772</updated>
       <workItem from="1592014933087" duration="11679000" />
-      <workItem from="1592119734412" duration="4191000" />
+      <workItem from="1592119734412" duration="13188000" />
     </task>
     <task id="LOCAL-00001" summary="6.13 commit">
       <created>1592029015780</created>
@@ -108,6 +114,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="6.13 commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592144608242">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1592144608242" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592148235975">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592148235975" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592029158041">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -116,5 +130,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592120014155" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../vue/day05 1-书籍购物车案例/main.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
