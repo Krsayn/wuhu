@@ -1,203 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a3ce5e-164f-4fc3-a91e-c95ebb5aaa8b" name="Default Changelist" comment="" />
+    <list default="true" id="297557eb-e402-470a-ac11-f2fbcaac390d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\tool\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../tool/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\tool\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1czioAIc2pvftEGYRyscF13rAW3" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectId" id="1dPHmJmdFNAbjjj82BxHcPFBN3O" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vue/demo" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager" selected="Application.question35">
-    <configuration name="question01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question01" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question09" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question26" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question35" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.question35" />
-        <item itemvalue="Application.question09" />
-        <item itemvalue="Application.question26" />
-        <item itemvalue="Application.question01" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6a3ce5e-164f-4fc3-a91e-c95ebb5aaa8b" name="Default Changelist" comment="" />
-      <created>1591537994981</created>
+      <changelist id="297557eb-e402-470a-ac11-f2fbcaac390d" name="Default Changelist" comment="" />
+      <created>1592319965957</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591537994981</updated>
-      <workItem from="1591537999278" duration="10443000" />
-      <workItem from="1591710740352" duration="6637000" />
+      <updated>1592319965957</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="651" y="294" key="#Notifications" timestamp="1591710788394">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="651" y="294" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1591710788394" />
-    <state x="249" y="7" key="#Project_Structure" timestamp="1591541746765">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1591541746765" />
-    <state x="621" y="194" key="FileChooserDialogImpl" timestamp="1591714078729">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="621" y="194" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591714078729" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1591801782553">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591801782553" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1591801782552">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591801782552" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1591801782552">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591801782552" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1591801782552">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591801782552" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1591709669666">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591709669666" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1591709669666">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591709669666" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1591709669666">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591709669666" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1591709669666">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591709669666" />
-    <state x="408" y="136" key="NewModule_or_Project.wizard" timestamp="1591714081812">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="408" y="136" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1591714081812" />
-    <state x="322" y="13" key="SettingsEditor" timestamp="1591541767120">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="322" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591541767120" />
-    <state x="313" y="161" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591570837558">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="313" y="161" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1591570837558" />
-    <state x="251" y="49" key="new project wizard" timestamp="1591539005715">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="251" y="49" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1591539005715" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[7]整数反转.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/src/main/easy/question01.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/src/main/easy/question26.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

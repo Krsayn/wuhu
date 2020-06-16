@@ -19,16 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684bc0ec-1fba-405f-8140-02732f30e29b" name="Default Changelist" comment="6.15 commit">
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/01 -组件化的基本使用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/02 -全局组件和局部组件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/03 -父组件和子组件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/04 -组件的语法糖注册方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/05 -组件模板的分离写法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/06 -组件中的数据存放问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/07 -组件中的data为什么是函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/08 -组件通信-父组件向子组件传递数据.html" afterDir="false" />
+    <list default="true" id="684bc0ec-1fba-405f-8140-02732f30e29b" name="Default Changelist" comment="6.16 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/artifacts/study_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/artifacts/study_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/leetcode/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/08 -组件通信-父组件向子组件传递数据.html" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/08 -组件通信-父组件向子组件传递数据.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592014930772</updated>
       <workItem from="1592014933087" duration="11679000" />
-      <workItem from="1592119734412" duration="27044000" />
+      <workItem from="1592119734412" duration="28866000" />
     </task>
     <task id="LOCAL-00001" summary="6.13 commit">
       <created>1592029015780</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592176175517</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6.16 commit">
+      <created>1592262521900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592262521900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +137,8 @@
     <MESSAGE value="6.13 commit" />
     <MESSAGE value="6.14 commit" />
     <MESSAGE value="6.15 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.15 commit" />
+    <MESSAGE value="6.16 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.16 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592144608242">
@@ -140,10 +149,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592148235975" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592176178517">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592262534491">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592176178517" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592262534491" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1592120014155">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
