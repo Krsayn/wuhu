@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684bc0ec-1fba-405f-8140-02732f30e29b" name="Default Changelist" comment="6.16 commit">
+      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/09 -组件通信-父传子(props中的驼峰标识).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/10 -组件通信-子传父(自定义事件).html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/artifacts/study_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/artifacts/study_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/leetcode/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/08 -组件通信-父组件向子组件传递数据.html" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/day06 1 -组件化开发/08 -组件通信-父组件向子组件传递数据.html" afterDir="false" />
     </list>
@@ -78,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592014930772</updated>
       <workItem from="1592014933087" duration="11679000" />
-      <workItem from="1592119734412" duration="28866000" />
+      <workItem from="1592119734412" duration="32857000" />
     </task>
     <task id="LOCAL-00001" summary="6.13 commit">
       <created>1592029015780</created>
@@ -115,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592262521900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6.16 commit">
+      <created>1592320845432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592320845432</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,10 +151,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592148235975" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592262534491">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592320868202">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592262534491" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592320868202" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1592120014155">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

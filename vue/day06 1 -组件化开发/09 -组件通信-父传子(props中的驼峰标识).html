@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="app">
+  <!--v-bind 不支持驼峰-->
+  <cpn v-bind:c-info="info"></cpn>
+</div>
+
+<template id="cpn">
+  <ul>
+    <li v-for="(value,key) in cInfo">{{key}}:{{value}}</li>
+  </ul>
+</template>
+<script src="../js/vue.js"></script>
+<script>
+	const cpn = {
+		template: '#cpn',
+		props: {
+			cInfo:{
+				type:Object,
+        default(){
+					return {}
+        }
+      }
+    }
+	}
+	const app = new Vue({
+		el: '#app',
+		data: {
+			info: {
+				name: 'why',
+				age: 18,
+				height: 180
+			}
+		},
+		components: {
+			'cpn': cpn
+		}
+	})
+</script>
+</body>
+</html>
