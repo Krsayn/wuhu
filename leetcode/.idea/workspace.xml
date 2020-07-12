@@ -24,16 +24,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.offer_03">
-    <configuration name="lcp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.lcp01" />
-      <module name="leetcode" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\wuhu\rose" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Question1085">
+    <configuration name="Question1051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Question1051" />
+      <module name="rose" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.*" />
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Question1085" />
+      <module name="rose" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="question07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question07" />
+      <option name="MAIN_CLASS_NAME" value="array.question07" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,24 +89,11 @@
       </method>
     </configuration>
     <configuration name="question1176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question1176" />
+      <option name="MAIN_CLASS_NAME" value="array.question1176" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="question1342" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.question1342" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1085" />
+        <item itemvalue="Application.Question1051" />
         <item itemvalue="Application.offer_03" />
         <item itemvalue="Application.question07" />
         <item itemvalue="Application.question1176" />
-        <item itemvalue="Application.question1342" />
-        <item itemvalue="Application.lcp01" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +120,9 @@
       <updated>1592319965957</updated>
       <workItem from="1592319968663" duration="14730000" />
       <workItem from="1592659528319" duration="13864000" />
+      <workItem from="1594478549882" duration="5498000" />
+      <workItem from="1594521552544" duration="204000" />
+      <workItem from="1594521813230" duration="8511000" />
     </task>
     <servers />
   </component>
@@ -127,50 +138,71 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="507" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1592434220072" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594521658889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1594521658889" />
     <state x="523" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592664234408">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="523" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1592664234408" />
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1592665255110">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594565328381">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594565328381" />
     <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592665255110" />
-    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1592665255110">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594565328381">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594565328381" />
     <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592665255110" />
-    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1592665255110">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594565328381">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594565328381" />
     <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592665255110" />
-    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1592665255110">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594565328381">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594565328381" />
     <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592665255110" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1592665255228">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594521526716">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594521526716" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592665255228" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1592665255228">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594521526716">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594521526716" />
     <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1592665255228" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1592665255228">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594521526716">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594521526716" />
     <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1592665255228" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1592665255228">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594521526716">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594521526716" />
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1592665255228" />
-    <state x="270" y="77" key="SettingsEditor" timestamp="1592746593286">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1594565347144">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594565347144" />
     <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592746593286" />
     <state x="313" y="161" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592664619159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="313" y="161" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1592664619159" />
+    <state x="199" y="22" key="new project wizard" timestamp="1594478580135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="199" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594478580135" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594481708548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594481708548" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,12 +213,12 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/src/main/easy/question1176.java</url>
+          <url>file://$PROJECT_DIR$/study/src/main/array/question1176.java</url>
           <line>8</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/src/main/easy/question07.java</url>
+          <url>file://$PROJECT_DIR$/study/src/main/array/question07.java</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -194,6 +226,11 @@
           <url>file://$PROJECT_DIR$/study/src/main/offer/offer_03.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../rose/src/array/Question1051.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

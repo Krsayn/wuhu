@@ -1,4 +1,4 @@
-package easy;
+package array;
 
 public class question1470 {
     public int[] shuffle(int[] nums, int n) {

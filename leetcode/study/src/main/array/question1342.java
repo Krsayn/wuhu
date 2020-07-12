@@ -1,4 +1,4 @@
-package easy;
+package array;
 
 public class question1342 {
     public static void main(String[] args) {

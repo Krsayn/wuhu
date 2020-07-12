@@ -1,4 +1,4 @@
-package easy;
+package array;
 
 public class question66 {
     public int[] plusOne(int[] digits) {

@@ -1,4 +1,4 @@
-package easy;
+package array;
 
 public class question1480 {
     public int[] runningSum(int[] nums) {
